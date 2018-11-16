@@ -1,0 +1,8 @@
+.DS_STORE
+node_modules
+*.swp
+.cache
+.idea
+*.log
+data.test.json
+.vscode
